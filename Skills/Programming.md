@@ -1,106 +1,114 @@
+👂 heard - чув про таке
+🎓 known - вивчав, знаю
+🖐️ used - використовував у 
+🙋 explained - можу пояснити за...
+📢 talked - робив доповідь
+🔬 researched - глибоко досліджував
+🚀 constructed - створив свою реалізацію (if applicabl)
+
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
-  - contract
-  - module
-  - call stack
+  - value 🙋 explained
+  - identifier 🙋 explained
+  - variable 🙋 explained
+  - constant 🙋 explained
+  - scalar 🎓 known
+  - literal 🙋 explained
+  - expression 🙋 explained
+  - heap 🙋 explained
+  - function 🙋 explained
+  - procedure 🙋 explained
+  - method 🙋 explained
+  - class 🙋 explained
+  - prototype 🎓 known
+  - event 🎓 known
+  - type 🙋 explained
+  - primitive types 🙋 explained
+  - reference types 🙋 explained
+  - flag 🙋 explained
+  - lexical scope 🙋 explained
+  - code block 🙋 explained
+  - conditions 🙋 explained
+  - loops 🙋 explained
+  - assignment 🙋 explained
+  - regular expression 🎓 known
+  - interface 🙋 explained
+  - contract 🙋 explained
+  - module 🙋 explained
+  - call stack 🙋 explained
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
-  - side effects
-  - closure
-  - partial application
-  - curry
-  - higher order
-  - recursion
-  - callback
-  - listener
-  - compose
-  - pipe
-  - memoize
-  - wrapper
-  - functor
-  - monad
-  - monoid
-  - generator
-  - coroutine
+  - signature 🙋 explained
+  - argument 🙋 explained
+  - parameter 🙋 explained
+  - pure function 🎓 known
+  - lambda expression 🎓 known
+  - side effects 🎓 known
+  - closure 🙋 explained
+  - partial application 🙋 explained
+  - curry 🎓 known
+  - higher order 🎓 known
+  - recursion 🙋 explained
+  - callback 🎓 known
+  - listener 🎓 known
+  - compose 🙋 explained
+  - pipe 🙋 explained
+  - memoize 🎓 known
+  - wrapper 🙋 explained
+  - functor 🎓 known
+  - monad 🎓 known
+  - monoid 👂 heard
+  - generator 🎓 known
+  - coroutine 👂 heard
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
-  - set
-  - hash table
-  - linked list
-  - doubly list
-  - unrolled list
-  - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
-  - iterator
-  - mutable state
-  - immutable state
-  - serialization
-  - string parsing
+  - array 🙋 explained
+  - structure 🎓 known
+  - record 👂 heard
+  - enum 🙋 explained
+  - instance 🙋 explained
+  - object 🙋 explained
+  - class 🙋 explained
+  - collection 🙋 explained
+  - set 🎓 known
+  - hash table 🙋 explained
+  - linked list🙋 explained
+  - doubly list 🎓 known
+  - unrolled list 👂 heard
+  - circular list 🎓 known
+  - queue 🙋 explained
+  - stack 🙋 explained
+  - deque 🙋 explained
+  - tree 🙋 explained
+  - graph 🎓 known
+  - iterator 🙋 explained
+  - mutable state 🎓 known
+  - immutable state 🎓 known
+  - serialization 🖐️ used
+  - string parsing 🖐️ used
 - Process & style
-  - compiler
-  - transpiler
-  - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
-  - unittest
-  - git
-  - github
+  - compiler 🙋 explained
+  - transpiler 👂 heard
+  - linter 🎓 known
+  - polyfill 👂 heard
+  - debugger 🙋 explained
+  - garbage collection 🔬 researched
+  - refactoring 🎓 known
+  - code review 🎓 known
+  - antipatterns 🎓 known
+  - paradigm 🎓 known
+  - algorithm 🎓 known
+  - magic numbers 🙋 explained
+  - hardcode 🙋 explained
+  - complexity 🎓 known
+  - decomposition 🎓 known
+  - spaghetti 🙋 explained
+  - silver bullet 🎓 known
+  - not invented here 🙋 explained
+  - dead code 🎓 known
+  - unreachable code 🙋 explained
+  - duplicate code 🙋 explained
+  - exception 🔬 researched
+  - return early 🖐️ used
+  - unittest 🖐️ used
+  - git 🎓 known
+  - github 🎓 known
