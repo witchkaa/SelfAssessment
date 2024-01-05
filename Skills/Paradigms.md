@@ -1,66 +1,68 @@
+👂 heard - чув про таке 🎓 known - вивчав, знаю 🖐️ used - використовував у 🙋 explained - можу пояснити за... 📢 talked - робив доповідь 🔬 researched - глибоко досліджував 🚀 constructed - створив свою реалізацію (if applicabl)
+
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
-  - Generic programming
-  - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
-  - Reactive programming
-  - FRP (Functional-reactive)
+  - Procedural programming 🙋 explained 
+  - Imperative programming 🙋 explained 
+  - Structured programming 🎓 known
+  - Non-structured programming 🎓 known
+  - Functional programming 🖐️ used
+  - Prototype-based programming 🎓 known
+  - Object-oriented programming 🖐️ used
+  - Object-based programming 
+  - Generic programming 👂 heard
+  - Concurrent computing 🎓 known
+  - Asynchronous programming 🙋 explained 
+  - Parallel programming 🙋 explained 
+  - Reactive programming 👂 heard
+  - FRP (Functional-reactive) 
   - Automata-based programming
-  - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Domain-specific languages 👂 heard
+  - Multi-paradigm programming 🖐️ used
+  - Metaprogramming 🙋 explained 
+  - Actor model 🎓 known
 - OOP basics
-  - constructor
-  - new
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - constructor 🖐️ used
+  - new 🖐️ used
+  - Static method 🖐️ used
+  - Method 🖐️ used
+  - Async method 🖐️ used
+  - Getters, Setters 🖐️ used
+  - Public fields 🙋 explained 
+  - Private fields 🖐️ used
+  - Field declarations 🙋 explained 
+  - Inheritance 🖐️ used
+  - Parent class 🙋 explained 
+  - Polymorphism 🖐️ used
+  - Abstract class 🙋 explained 
+  - Interface 🖐️ used
+  - Encapsulation 🖐️ used
+  - Hidden class 🙋 explained 
+  - Object form 🙋 explained 
+  - instance 🙋 explained 
+  - Introspection 🎓 known
+  - Reflection 🎓 known
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
-  - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
+  - Singleton 🖐️ used
+  - Factory Method 🖐️ used
+  - Abstract Factory 🙋 explained 
+  - Adapter 🎓 known
+  - Observer 🎓 known
+  - Strategy 🎓 known
+  - Facade 🖐️ used
+  - Proxy 👂 heard
   - Chain of Responsibility
-  - Command
-  - Iterator
+  - Command 🖐️ used
+  - Iterator 👂 heard
   - State
   - Bridge
-  - Builder
+  - Builder 🎓 known
   - Prototype
-  - Composite
-  - Decorator
+  - Composite 👂 heard
+  - Decorator 🙋 explained 
   - Flyweight
-  - Mediator
-  - Memento
-  - Template Method
-  - Visitor
+  - Mediator 🎓 known
+  - Memento 🎓 known
+  - Template Method 🎓 known
+  - Visitor 🙋 explained 
