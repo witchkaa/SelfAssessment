@@ -1,45 +1,44 @@
 ## Asynchronous programming
-
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop 🎓 known
+  - try..catch 🎓 known
+  - Non-blocking 🎓 known
+  - Async I/O 🎓 known
+  - Thread pool 👂 heard
   - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Event ports 🎓 known
+  - libuv 👂 heard
+  - Race conditions 👂 heard
+  - Dead locks 👂 heard
+  - Live locks 👂 heard
+  - Concurrent programming 🎓 known
+  - Parallel programming 👂 heard
+  - Actor Model 👂 heard
+  - Thread 🎓 known
+  - Process 🎓 known
 - Async contracts
-  - Callbacks
+  - Callbacks 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise 🎓 known
+  - Async/await 🎓 known
   - Future
   - Deferred
   - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
+  - Event 🎓 known
   - Coroutine
   - Goroutine
   - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Stream 🎓 known
+  - Chain of responsibility 🎓 known
+  - Middleware 🎓 known
+  - Locks 👂 heard
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,15 +46,15 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
+  - EventEmitter 🎓 known
+  - Observable/Observer 🎓 known
   - Readable
   - Writable
   - Transform
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
+  - Semaphore 👂 heard
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific

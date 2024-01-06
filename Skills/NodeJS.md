@@ -1,12 +1,11 @@
 ## Node.js and backend
-
 - Internals and concepts
   - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Stateful and stateless servers 🎓 known
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -15,15 +14,15 @@
   - ECMAScript modules
   - node:module
   - Caching in CJS and ESM
-  - Modules as singletons
+  - Modules as singletons 👂 heard
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules
   - Dependencies: package.json and package lock
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Isolation with modularity 🎓 known
+  - Dependency injection 👂 heard
   - DI containers
-  - Coupling and cohesion
+  - Coupling and cohesion 🎓 known
   - Framework agnostic approach
 - Environment
   - Command line arguments
@@ -61,15 +60,15 @@
   - Blob, File, Buffer, node:buffer
   - Module node:zlib
 - Application structure and architecture
-  - Isolation between layer
-  - Multilayer approach
-  - Separation of concerns
-  - Inversion of control
-  - Dependency injection
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - Distributed systems
+  - Isolation between layer 🎓 known
+  - Multilayer approach 👂 heard
+  - Separation of concerns 🎓 known
+  - Inversion of control 🎓 known
+  - Dependency injection 🎓 known
+  - GRASP 👂 heard
+  - SOLID 🔬 researched
+  - GoF patterns 👂 heard
+  - Distributed systems 👂 heard
   - Highload applications
   - Clean architecture
   - DDD
@@ -86,31 +85,31 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S) 🎓 known
+  - TCP/SSL 🎓 known
+  - UDP 🎓 known
   - TLS
-  - Websocket
+  - Websocket 🎓 known
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 🎓 known
   - RPC
   - Routing
-  - DoS
+  - DoS 🎓 known
   - DDoS
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS 🎓 known
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection 👂 heard
   - noDelay
   - keep-alive
   - ALPN
   - SNI callback
-  - SSL certificates
+  - SSL certificates 👂 heard
   - Protocol agnostic approach
 - Technique and tools
   - Native test runner
@@ -130,8 +129,8 @@
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer 👂 heard
+  - Repository 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping
