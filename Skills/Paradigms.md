@@ -1,6 +1,5 @@
 
 ## Multi-paradigm programming
-
 - Theory
   - Procedural programming 🙋 explained 
   - Imperative programming 🙋 explained 
@@ -9,12 +8,12 @@
   - Functional programming 🖐️ used
   - Prototype-based programming 🎓 known
   - Object-oriented programming 🖐️ used
-  - Object-based programming 
-  - Generic programming 👂 heard
+  - Object-based programming 🙋 explained
+  - Generic programming 🙋 explained
   - Concurrent computing 🎓 known
-  - Asynchronous programming 🙋 explained 
+  - Asynchronous programming 🖐️ used
   - Parallel programming 🙋 explained 
-  - Reactive programming 👂 heard
+  - Reactive programming 🙋 explained
   - FRP (Functional-reactive) 
   - Automata-based programming
   - Domain-specific languages 👂 heard
@@ -45,23 +44,23 @@
 - Patterns
   - Singleton 🖐️ used
   - Factory Method 🖐️ used
-  - Abstract Factory 🙋 explained 
+  - Abstract Factory 🖐️ used
   - Adapter 🎓 known
-  - Observer 🎓 known
+  - Observer 🖐️ used
   - Strategy 🎓 known
   - Facade 🖐️ used
-  - Proxy 👂 heard
-  - Chain of Responsibility
+  - Proxy 🙋 explained
+  - Chain of Responsibility 🖐️ used
   - Command 🖐️ used
-  - Iterator 👂 heard
+  - Iterator 🙋 explained
   - State
-  - Bridge
+  - Bridge 🙋 explained
   - Builder 🎓 known
   - Prototype
   - Composite 👂 heard
-  - Decorator 🙋 explained 
-  - Flyweight
+  - Decorator 🖐️ used
+  - Flyweight 🙋 explained
   - Mediator 🎓 known
   - Memento 🎓 known
-  - Template Method 🎓 known
+  - Template Method 🖐️ used
   - Visitor 🙋 explained 

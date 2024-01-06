@@ -1,44 +1,45 @@
 ## Asynchronous programming
+
 - Theory
   - Event loop 🎓 known
   - try..catch 🎓 known
   - Non-blocking 🎓 known
   - Async I/O 🎓 known
-  - Thread pool 👂 heard
-  - Pattern Reactor
-  - CAS operations
+  - Thread pool 🙋 explained
+  - Pattern Reactor 🙋 explained
+  - CAS operations 🙋 explained
   - epoll
   - kqueue
   - Completion ports
   - Event ports 🎓 known
-  - libuv 👂 heard
-  - Race conditions 👂 heard
-  - Dead locks 👂 heard
-  - Live locks 👂 heard
-  - Concurrent programming 🎓 known
-  - Parallel programming 👂 heard
-  - Actor Model 👂 heard
-  - Thread 🎓 known
-  - Process 🎓 known
+  - libuv 🖐️ used
+  - Race conditions 🙋 explained
+  - Dead locks 🙋 explained
+  - Live locks 🙋 explained
+  - Concurrent programming 🖐️ used
+  - Parallel programming 🙋 explained
+  - Actor Model 🔬 researched
+  - Thread 🚀 constructed
+  - Process 🚀 constructed
 - Async contracts
   - Callbacks 🎓 known
   - Callback-last-error-first
-  - Thenable
+  - Thenable 
   - Promise 🎓 known
   - Async/await 🎓 known
   - Future
   - Deferred
   - Sync generator
   - Async Generator 👂 heard
-  - Async Iterator 👂 heard
+  - Async Iterator 🖐️ used
   - Event 🎓 known
-  - Coroutine
-  - Goroutine
-  - Signal
+  - Coroutine 👂 heard
+  - Goroutine 👂 heard
+  - Signal 🎓 known
   - Stream 🎓 known
   - Chain of responsibility 🎓 known
   - Middleware 🎓 known
-  - Locks 👂 heard
+  - Locks 🙋 explained
 - Async adapters and utils
   - callbackify
   - promisify
@@ -51,12 +52,12 @@
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool 🙋 explained
+  - Async Queue 🙋 explained
   - Async Collector
-  - Semaphore 👂 heard
-  - Mutex
-  - Spin Lock
+  - Semaphore 🖐️ used
+  - Mutex 🔬 researched
+  - Spin Lock 🙋 explained
 - JavaScript & Node.js specific
   - Timers
   - setImmediate
@@ -74,7 +75,7 @@
   - ref() and unref()
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization 👂 heard
   - promisify
   - callbackify
   - AsyncLocalStorage
