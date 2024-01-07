@@ -1,6 +1,5 @@
 
 ## Programming fundamental concepts
-
 - Syntax and concepts
   - value: 🙋 explained
   - identifier: 🙋 explained
@@ -25,7 +24,7 @@
   - conditions: 🙋 explained
   - loops: 🙋 explained
   - assignment: 🙋 explained
-  - regular expression: 🎓 known
+  - regular expression: 🖐️ used
   - interface: 🙋 explained
   - contract: 🙋 explained
   - module: 🙋 explained
@@ -35,7 +34,7 @@
   - argument: 🙋 explained
   - parameter: 🙋 explained
   - pure function: 🎓 known
-  - lambda expression: 🎓 known
+  - lambda expression: 🖐️ used
   - side effects: 🎓 known
   - closure: 🙋 explained
   - partial application: 🙋 explained
@@ -52,11 +51,11 @@
   - monad: 🎓 known
   - monoid: 👂 heard
   - generator: 🎓 known
-  - coroutine: 👂 heard
+  - coroutine: 🎓 known
 - Data structures
   - array: 🙋 explained
   - structure: 🎓 known
-  - record: 👂 heard
+  - record: 🖐️ used
   - enum: 🙋 explained
   - instance: 🙋 explained
   - object: 🙋 explained
@@ -66,7 +65,7 @@
   - hash table: 🙋 explained
   - linked list: 🙋 explained
   - doubly list: 🎓 known
-  - unrolled list: 👂 heard
+  - unrolled list: 🎓 known
   - circular list: 🎓 known
   - queue: 🙋 explained
   - stack: 🙋 explained
@@ -80,7 +79,7 @@
   - string parsing: 🖐️ used
 - Process & style
   - compiler: 🙋 explained
-  - transpiler: 👂 heard
+  - transpiler: 🎓 known
   - linter: 🎓 known
   - polyfill: 👂 heard
   - debugger: 🙋 explained
@@ -100,8 +99,8 @@
   - dead code: 🎓 known
   - unreachable code: 🙋 explained
   - duplicate code: 🙋 explained
-  - exception: 🔬 researched
-  - return early: 🖐️ used
+  - exception: 🖐️ used
+  - return early: 🔬 researched
   - unittest: 🖐️ used
   - git: 🎓 known
   - github: 🎓 known

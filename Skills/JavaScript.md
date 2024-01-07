@@ -9,7 +9,7 @@
   - apply: 🎓 known
   - instanceof: 🙋 explained
   - ...spread: 👂 heard
-  - ...rest: 👂 heard
+  - ...rest: 🙋 explained
   - typeof: 🙋 explained
   - destructuring: 👂 heard
   - generator: 🎓 known
@@ -17,7 +17,7 @@
   - async generator: 👂 heard
   - async iterator: 👂 heard
   - chaining: 🎓 known
-  - optional chaining: 👂 heard
+  - optional chaining: 🙋 explained
   - IIFE:
   - global: 🎓 known
   - globalThis:
@@ -31,7 +31,7 @@
   - ternary operator: 🙋 explained
   - void: 🙋 explained
   - yield: 👂 heard
-  - await:  🎓 known
+  - await: 🎓 known
   - template literal: 🎓 known
   - strict mode: 🎓 known
   - delete: 🎓 known
@@ -71,12 +71,12 @@
   - typed arrays: 🙋 explained
   - Map: 🙋 explained
   - Set: 🙋 explained
-  - undefined:
+  - undefined: 🙋 explained
   - null: 🖐️ used
-  - Proxy:
-  - weak collections:
+  - Proxy: 🎓 known
+  - weak collections: 🙋 explained
   - timers: 🎓 known
-  - EventEmitter: 👂 heard
+  - EventEmitter: 🎓 known
   - RegExp: 🖐️ used
   - Date: 🖐️ used
   - BigInt: 🎓 known

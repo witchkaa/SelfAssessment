@@ -1,10 +1,11 @@
+
 ## Node.js and backend
 - Internals and concepts
   - Strong and weak sides of node.js:
   - Stateful and stateless servers: 🎓 known
   - Nonblocking I/O and slocking code:
-  - Event loop: phases:
-  - Event loop: microtasks and macrotasks:
+  - Event loop: phases: 🙋 explained
+  - Event loop: microtasks and macrotasks: 🙋 explained
   - Garbage collection: 🎓 known
   - Node.js LTS schedule:
   - I/O-bound, CPU-bound, memory-bound tasks:
@@ -16,8 +17,8 @@
   - Caching in CJS and ESM:
   - Modules as singletons: 👂 heard
   - Contexts and scripts node:vm:
-  - Dependencies: npm, node_modules:
-  - Dependencies: package.json and package lock:
+  - Dependencies: npm, node_modules: 🎓 known
+  - Dependencies: package.json and package lock: 🎓 known
   - Module-based permissions model:
   - Isolation with modularity: 🎓 known
   - Dependency injection: 👂 heard
@@ -60,28 +61,28 @@
   - Blob, File, Buffer, node:buffer:
   - Module node:zlib:
 - Application structure and architecture
-  - Isolation between layer: 🎓 known
-  - Multilayer approach: 👂 heard
-  - Separation of concerns: 🎓 known
-  - Inversion of control: 🎓 known
-  - Dependency injection: 🎓 known
-  - GRASP: 👂 heard
-  - SOLID: 🔬 researched
-  - GoF patterns: 👂 heard
-  - Distributed systems: 👂 heard
-  - Highload applications:
-  - Clean architecture:
+  - Isolation between layer: 🙋 explained
+  - Multilayer approach: 🙋 explained
+  - Separation of concerns: 🙋 explained
+  - Inversion of control: 🙋 explained
+  - Dependency injection: 🙋 explained
+  - GRASP: 🙋 explained
+  - SOLID: 🙋 explained
+  - GoF patterns: 🙋 explained
+  - Distributed systems: 🎓 known
+  - Highload applications: 🎓 known
+  - Clean architecture: 🎓 known
   - DDD:
-  - Message Queue:
+  - Message Queue: 🙋 explained
   - CQS:
   - CQRS:
   - Event sourcing:
-  - Load balancing:
+  - Load balancing: 🎓 known
   - Serverless clouds:
   - FaaS clouds:
   - Fat controller:
   - GoF for Node.js:
-  - Leaking abstractions:
+  - Leaking abstractions: 🙋 explained
 - Network
   - IP sticky sessions:
   - Endpoint throttling:
@@ -89,22 +90,22 @@
   - TCP/SSL: 🎓 known
   - UDP: 🎓 known
   - TLS:
-  - Websocket: 🎓 known
+  - Websocket: 🖐️ used
   - SSE:
   - HTTP/3 (QUIC):
   - Long polling:
-  - REST: 🎓 known
+  - REST: 🖐️ used
   - RPC:
   - Routing:
   - DoS: 🎓 known
   - DDoS:
   - XSS:
-  - Path traversal:
+  - Path traversal: 🔬 researched
   - CSRF:
   - DNS: 🎓 known
   - Fetch API:
   - IncomingMessage:
-  - SQL injection: 👂 heard
+  - SQL injection: 🙋 explained
   - noDelay:
   - keep-alive:
   - ALPN:
@@ -112,43 +113,43 @@
   - SSL certificates: 👂 heard
   - Protocol agnostic approach:
 - Technique and tools
-  - Native test runner:
-  - Logging:
-  - Application configuring:
-  - Testing:
+  - Native test runner: 🙋 explained
+  - Logging: 🖐️ used
+  - Application configuring: 🖐️ used
+  - Testing: 🖐️ used
   - CI/CD:
   - Readable:
   - Writable:
   - Transform:
   - back pressure:
-  - Buffer:
-  - Console:
+  - Buffer: 🎓 known
+  - Console: 🎓 known
   - Inspector:
-  - Reliability:
-  - Quality:
-  - Availability:
-  - Flexibility:
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
 - Data access
-  - Data access layer: 👂 heard
-  - Repository: 👂 heard
+  - Data access layer: 🙋 explained
+  - Repository: 🙋 explained
   - Active record:
-  - Query builder:
-  - Object-Relational Mapping:
+  - Query builder: 🙋 explained
+  - Object-Relational Mapping: 🙋 explained
 - Error handling and debugging
-  - Error:
-  - error.cause:
-  - error.code:
-  - error.message:
-  - error.stack:
-  - How to avoid mixins:
-  - Error.captureStackTrace:
-  - Uncaught exceptions:
+  - Error: 🙋 explained
+  - error.cause: 🙋 explained
+  - error.code: 🙋 explained
+  - error.message: 🙋 explained
+  - error.stack: 🙋 explained
+  - How to avoid mixins: 🙋 explained
+  - Error.captureStackTrace: 🙋 explained
+  - Uncaught exceptions: 🔬 researched
   - Heap dump:
-  - Debugging tools:
+  - Debugging tools: 🖐️ used
   - Flame graph:
-  - Memory leaks:
-  - Resource leaks:
-  - Data race:
+  - Memory leaks: 🙋 explained
+  - Resource leaks: 🙋 explained
+  - Data race: 🔬 researched
 - Integrations and bindings
   - Native addons:
   - C and C++ addons:
