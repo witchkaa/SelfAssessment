@@ -2,34 +2,34 @@
 ## Specific for Java
 
 - Java Core:
-    - JDK, JRE, JVM 🎓 known
-    - Java SE 🎓 known
-    - Java EE
-    - Collections Framework 🖐️ used
-    - Java I/O 🖐️ used
-    - Generics 🎓 known
-    - Annotations 🔬 researched
+    - JDK, JRE, JVM: 🎓 known
+    - Java SE: 🎓 known
+    - Java EE:
+    - Collections Framework: 🖐️ used
+    - Java I/O: 🖐️ used
+    - Generics: 🎓 known
+    - Annotations: 🔬 researched
 - Frameworks and tools:
-    - Spring Boot 👂 heard
-    - Spring Security
-    - Spring Data 👂 heard
-    - Spring MVC
-    - JUnit 🖐️ used
-    - Eclipse Jersey
-    - Swing 🖐️ used
-    - JavaFX 👂 heard
-    - Angular
-    - Hibernate
-    - Apache Tomcat 👂 heard
-    - Lombok
-    - Docker
-    - Gradle
-    - Maven 🖐️ used
-    - Mockito 👂 heard
+    - Spring Boot: 👂 heard
+    - Spring Security:
+    - Spring Data: 👂 heard
+    - Spring MVC:
+    - JUnit: 🖐️ used
+    - Eclipse Jersey:
+    - Swing: 🖐️ used
+    - JavaFX: 👂 heard
+    - Angular:
+    - Hibernate:
+    - Apache Tomcat: 👂 heard
+    - Lombok:
+    - Docker:
+    - Gradle:
+    - Maven: 🖐️ used
+    - Mockito: 👂 heard
 - DB:
     - SQL/noSQL databases
-        - MySQL 🔬 researched
-        - PostgreSQL
-        - MongoDB
-        - H2
-    - JDBC API 🔬 researched
+        - MySQL: 🔬 researched
+        - PostgreSQL:
+        - MongoDB:
+        - H2:
+    - JDBC API: 🔬 researched
